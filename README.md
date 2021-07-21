@@ -1,1 +1,1 @@
-# Stanford_Online_Machine_Learning
+Machine Learning course provided by Stanford Online and taught by Andrew Ng on Coursera.
